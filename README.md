@@ -2,7 +2,8 @@
 
 ## A Deep Reinforcement Learning Approach for Traffic Light Management
 
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/77cd9d5b-75c4-4420-932f-4c4a5f7e55ec)
 
 ### Authors
 <p align="center">
