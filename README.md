@@ -66,5 +66,4 @@ We built upon ideas from existing research in DRL-based traffic signal control, 
 - [StageLight: Multi-Agent Traffic Signal Control](https://github.com/GangSuUGA/StageLight?tab=readme-ov-file)
 
 ---
-This README provides an overview, we tried to make the code self-explanatory, but if you have any questions, feel free to reach out to us via linkedin :
-https://www.linkedin.com/in/ariel-pomeranchik/
+This README provides an overview of our project, its motivation, implementation details, and references to related work. For more details, check out the code and experiments in our repository!
