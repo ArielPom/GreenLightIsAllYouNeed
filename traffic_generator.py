@@ -2,13 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 
-# ROUTES_STRING = """<routes>
-#     <route id="E14_E15" edges="E14 E15"/>
-#     <route id="E15_E14" edges="-E15 -E14"/>
-#     <route id="E19_E20" edges="E19 E20"/>
-#     <route id="E20_E19" edges="-E20 -E19"/>
-# """
-
 route_ids = ["E7_E6", "E9_E8", "E6_E7", "E8_E9"]
 ROUTES_STRING = f"""<routes>
     <route id="{route_ids[0]}" edges="-E7 -E6"/>
