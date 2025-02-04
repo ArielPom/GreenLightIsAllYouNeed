@@ -2,7 +2,7 @@
 
 ## A Deep Reinforcement Learning Approach for Traffic Light Management
 
-![](https://https://github.com/ArielPom/GreenLightIsAllYouNeed/assets/greenlight_gif.gif)
+![](https://github.com/ArielPom/GreenLightIsAllYouNeed/blob/main/assets/greenlight_gif.gif)
 
 ### Authors
 <p align="center">
